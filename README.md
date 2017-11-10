@@ -2,7 +2,6 @@
 
 Biometric Template Protection based on Bloom filters for facial images. Scripts designed for the FERET DB 
 (<https://www.nist.gov/programs-projects/face-recognition-technology-feret>), following the protocol included in [[IF17]](http://www.sciencedirect.com/science/article/pii/S1566253516301233).
-To evaluate the unlinkability of the protected templates, please see (<https://share.nbl.nislab.no/g03-06-btp/unlinkability-metric>).
 
 ## License
 This work is licensed under license agreement provided by Hochschule Darmstadt ([h_da-License](/hda-license.pdf)).
